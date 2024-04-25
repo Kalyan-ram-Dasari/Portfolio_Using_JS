@@ -99,6 +99,7 @@ header.shadow {
   grid-template-columns:  1fr 1fr;
   align-items: center;
   gap: 1rem;
+	padding:10px 100px;
 }
 .home-img {
   order: 3;
